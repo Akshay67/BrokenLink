@@ -8,3 +8,5 @@ For this Following packages are rqueired to install before run the script.
 -- pip install bs4
 
 -- pip install lxml
+
+-- pip install colorama
